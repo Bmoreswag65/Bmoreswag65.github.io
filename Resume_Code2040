@@ -48,8 +48,8 @@
       {
         "project_name": "Bmoreswag65.github.io/8 Graphs and Mazes (1)/src/",
         "description": [
-          "Initialized Graph using nested HashMap structure which paired vertices with their corresponding weight"
-          "Performed Dijkstra’s, Breadth-First and Depth-First algorithms on maze that implemented Graph structure"
+          "Initialized Graph using nested HashMap structure which paired vertices with their corresponding weight."
+          "Performed Dijkstra’s, Breadth-First and Depth-First algorithms on maze that implemented Graph structure."
         ],
         "technology_used": {
           "tools": [
@@ -60,8 +60,8 @@
       {
         "project_name": "Bmoreswag65.github.io/9 Hash Table/src/",
         "description": [
-          "Use an Iterator to go over the elements in the collection, checking if there is an empty index or not"
-          "Formed Add and Remove methods that changed the table respectively while re-hashing the table accordingly"
+          "Use an Iterator to go over the elements in the collection, checking if there is an empty index or not."
+          "Formed Add and Remove methods that changed the table respectively while re-hashing the table accordingly."
         ],
         "technology_used": {
           "tools": [
@@ -146,7 +146,7 @@
         "from": "September 2017",
         "to": "Current",
         "points": [
-          "Digitized data from 1930s maps by crowdsourcing documentation by the Emigrant City Farm "
+          "Digitized data from 1930s maps by crowdsourcing documentation by the Emigrant City Farm."
         ]
       }
     ]
