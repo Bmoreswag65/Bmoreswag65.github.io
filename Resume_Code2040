@@ -1,0 +1,154 @@
+{
+  "firstname": "Okeze",
+  "lastname": "Nwofor",
+  "contact": {
+    "email": "onwofor1@gmail.com",
+    "phone": "(443) 707-5531",
+    "website": " ",
+    "linkedin": "https://www.linkedin.com/in/okeze-nwofor-02a994107",
+    "github": "https://github.com/Bmoreswag65"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "Java",
+          "Python",
+          "Javascript",
+        ]
+      },
+      {
+        "type": "Databases",
+        "items": [
+          "MySQL"
+        ]
+      },
+      {
+        "type": "Tools",
+        "items": [
+          "Git"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Big Data",
+          "Machine Learning",
+          "Web Development",
+          "Product Managment",
+          "Artificial Intelligence",
+          "Teaching"
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "items": [
+      {
+        "project_name": "Bmoreswag65.github.io/8 Graphs and Mazes (1)/src/",
+        "description": [
+          "Initialized Graph using nested HashMap structure which paired vertices with their corresponding weight"
+          "Performed Dijkstra’s, Breadth-First and Depth-First algorithms on maze that implemented Graph structure"
+        ],
+        "technology_used": {
+          "tools": [
+            "Java",
+          ]
+        }
+      },
+      {
+        "project_name": "Bmoreswag65.github.io/9 Hash Table/src/",
+        "description": [
+          "Use an Iterator to go over the elements in the collection, checking if there is an empty index or not"
+          "Formed Add and Remove methods that changed the table respectively while re-hashing the table accordingly"
+        ],
+        "technology_used": {
+          "tools": [
+            "Java"
+          ]
+        }
+      }
+    ]
+  },
+  "other_projects": {
+    "items": [
+      {
+        "headline": "Digitized data by crowdsourcing documents for Mapping Inequality project",
+        "points": [
+          "Was featured in the New York Times, working other Universities"
+        ],
+        "technology_used": {
+          "tools": [
+            "Emigrant City",
+            "SQL",
+          ]
+        }
+      }
+    ]
+  },
+  "involvement": {
+    "organizations": [
+      "Pre-College Intiative Chair, Black Engineers Society, College Park, MD, Fall 2017 to Present",
+      "LSAMP, a program aiming at increasing the quality and quantity of students completing STEM baccalaureate degree programs, Spring 2017 to Present",
+      "College Park Scholars, a living-learning program for engaged and talented freshman and sophmore at the University of Maryland, College Park Campus, Fall 2015 to Spring 2017",
+      "Bethel Campus Fellowship, an interdenominational organization established to proclaim the Lordship of our Lord Jesus Christ on college campuses, Spring 2016 to Present"
+
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Science and Global Chnage Scholar 2017",
+      "Pre-College Intiative Chair, Black Engineers Society",
+      "Graphics Design Banquet Chair, Black Engineers Society",
+      "National Retail Foundation Scholar, SHOP.org Conference "
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent)",
+      "Interests: Video Gaming, Sports, Competition, Programming, Traveling."
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Information Science",
+        "institution": "University of Maryland, College Park",
+        "graduation_year": 2019
+      }
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "Object-Oriented Programming I",
+      "url": "http://www.cs.umd.edu/class/spring2016/cmsc131/"
+    },
+    {
+      "name": "Object-Oriented Programming II",
+      "url": "http://www.cs.umd.edu/class/fall2016/cmsc132/"
+    },
+    {
+      "name": "User Centered Design",
+      "url": "https://drive.google.com/open?id=1TwdJdzgXslQ53ebaS_DgqcZMF5jomgMD"
+    },
+    {
+      "name": "Database Design and Modeling",
+      "url": "https://drive.google.com/open?id=11x-AIZb9RCDUBk83SHQ2RLLYnaA_oS7t"
+    }
+  ],
+  "research_experience": {
+    "items": [
+      {
+        "title":"Mapping Inequality Assistant",
+        "organisation": "Digital Curration Innovation Center, University of Maryland, College Park",
+        "from": "September 2017",
+        "to": "Current",
+        "points": [
+          "Digitized data from 1930s maps by crowdsourcing documentation by the Emigrant City Farm "
+        ]
+      }
+    ]
+  }
+}
