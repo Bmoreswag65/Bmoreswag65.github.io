@@ -15,7 +15,7 @@
         "items": [
           "Java",
           "Python",
-          "Javascript",
+          "Javascript"
         ]
       },
       {
@@ -48,19 +48,19 @@
       {
         "project_name": "Bmoreswag65.github.io/8 Graphs and Mazes (1)/src/",
         "description": [
-          "Initialized Graph using nested HashMap structure which paired vertices with their corresponding weight."
+          "Initialized Graph using nested HashMap structure which paired vertices with their corresponding weight.",
           "Performed Dijkstra’s, Breadth-First and Depth-First algorithms on maze that implemented Graph structure."
         ],
         "technology_used": {
           "tools": [
-            "Java",
+            "Java"
           ]
         }
       },
       {
         "project_name": "Bmoreswag65.github.io/9 Hash Table/src/",
         "description": [
-          "Use an Iterator to go over the elements in the collection, checking if there is an empty index or not."
+          "Use an Iterator to go over the elements in the collection, checking if there is an empty index or not.",
           "Formed Add and Remove methods that changed the table respectively while re-hashing the table accordingly."
         ],
         "technology_used": {
@@ -81,7 +81,7 @@
         "technology_used": {
           "tools": [
             "Emigrant City",
-            "SQL",
+            "SQL"
           ]
         }
       }
@@ -93,7 +93,6 @@
       "LSAMP, a program aiming at increasing the quality and quantity of students completing STEM baccalaureate degree programs, Spring 2017 to Present",
       "College Park Scholars, a living-learning program for engaged and talented freshman and sophmore at the University of Maryland, College Park Campus, Fall 2015 to Spring 2017",
       "Bethel Campus Fellowship, an interdenominational organization established to proclaim the Lordship of our Lord Jesus Christ on college campuses, Spring 2016 to Present"
-
     ]
   },
   "achievements": {
@@ -141,7 +140,7 @@
   "research_experience": {
     "items": [
       {
-        "title":"Mapping Inequality Assistant",
+        "title": "Mapping Inequality Assistant",
         "organisation": "Digital Curration Innovation Center, University of Maryland, College Park",
         "from": "September 2017",
         "to": "Current",
